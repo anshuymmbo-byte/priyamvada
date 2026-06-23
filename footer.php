@@ -3,14 +3,17 @@
   <div class="container">
     <div class="footer-grid">
       <div class="footer-brand">
-        <span class="logo-name">Priyamvada Singh</span>
-        <span class="logo-tagline">Tarot Mentor · Spiritual Guide</span>
-        <p>Helping you connect with your inner wisdom and create a life of clarity, purpose, and spiritual empowerment through the transformative art of Tarot.</p>
+        <!-- <span class="logo-name">Priyamvada Singh</span>
+        <span class="logo-tagline">Tarot Mentor · Spiritual Guide</span> -->
+        <img src="./image/whitelogo.png" alt="logo" h-auto />
+        <p>Helping you connect with your inner wisdom and create a life of clarity, purpose, and spiritual empowerment
+          through the transformative art of Tarot.</p>
         <div class="social-links">
-          <a href="#" title="Instagram">📸</a>
-          <a href="#" title="YouTube">▶</a>
-          <a href="#" title="Facebook">f</a>
-          <a href="#" title="WhatsApp">💬</a>
+          <a href="https://www.instagram.com/healwithpriyamvada?igsh=M3dhOXFzZWtwZWtr&utm_source=qr"
+            title="Instagram"><i class="bi bi-instagram"></i></a>
+          <a href="#" title="YouTube"><i class="bi bi-youtube"></i></a>
+          <a href="#" title="Facebook"><i class="bi bi-facebook"></i></a>
+          <a href="#" title="WhatsApp"><i class="bi bi-whatsapp"></i></a>
         </div>
       </div>
       <div class="footer-col">
@@ -44,4 +47,5 @@
 
 <script src="js/main.js"></script>
 </body>
+
 </html>

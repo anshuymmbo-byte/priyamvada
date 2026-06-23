@@ -14,7 +14,8 @@ include 'header.php';
     </div>
     <span class="eyebrow">Get to Know Me</span>
     <h1>Priyamvada Singh</h1>
-    <p style="color:var(--text-muted);font-size:1.1rem;max-width:520px;margin:12px auto 0;">Tarot Mentor · Spiritual Guide · Educator · Oracle Reader</p>
+    <p style="color:var(--text-muted);font-size:1.1rem;max-width:520px;margin:12px auto 0;">Tarot Mentor · Spiritual
+      Guide · Educator · Oracle Reader</p>
   </div>
 </section>
 
@@ -24,38 +25,51 @@ include 'header.php';
     <div class="about-intro-grid">
       <div class="about-img-stack">
         <div class="about-img-big">
-          <div style="width:100%;height:100%;background:linear-gradient(145deg,#fcd0e0,#e8a0b8);display:flex;align-items:center;justify-content:center;font-size:8rem;">🌸</div>
+          <div
+            style="width:100%;height:100%;background:linear-gradient(145deg,#fcd0e0,#e8a0b8);display:flex;align-items:center;justify-content:center;font-size:8rem;">
+            <img src="./image/about_page_image.png" alt="image">
+          </div>
         </div>
         <div class="about-img-sm">
-          <div style="width:100%;height:100%;background:linear-gradient(145deg,#f9e4f0,#d4a0c8);display:flex;align-items:center;justify-content:center;font-size:3rem;">🔮</div>
+          <div
+            style="width:100%;height:100%;background:linear-gradient(145deg,#f9e4f0,#d4a0c8);display:flex;align-items:center;justify-content:center;font-size:3rem;">
+            🔮</div>
         </div>
       </div>
       <div class="about-intro-content">
         <span class="eyebrow">My Story</span>
         <h2 class="section-title">Discovering the Language of Intuition</h2>
-        <p>Hello, I'm Priyamvada — a certified Tarot Mentor, Spiritual Guide, and Educator on a mission to help you connect with the deepest parts of yourself. My journey began over 8 years ago when I discovered that Tarot was not just a tool for prediction, but a mirror for the soul.</p>
-        <p>What started as a personal exploration quickly became my purpose. I've since worked with over 1,200 clients across India and the world, guiding them through crossroads in love, career, and spiritual evolution. I've also trained 500+ students to read Tarot with confidence and compassion.</p>
-        <p>My approach is holistic and heart-centered — I blend Tarot with spiritual principles, psychology, and practical life wisdom to offer guidance that is both profound and actionable.</p>
+        <p>Hello, I'm Priyamvada — a certified Tarot Mentor, Spiritual Guide, and Educator on a mission to help you
+          connect with the deepest parts of yourself. My journey began over 8 years ago when I discovered that Tarot was
+          not just a tool for prediction, but a mirror for the soul.</p>
+        <p>What started as a personal exploration quickly became my purpose. I've since worked with over 1,200 clients
+          across India and the world, guiding them through crossroads in love, career, and spiritual evolution. I've
+          also trained 500+ students to read Tarot with confidence and compassion.</p>
+        <p>My approach is holistic and heart-centered — I blend Tarot with spiritual principles, psychology, and
+          practical life wisdom to offer guidance that is both profound and actionable.</p>
         <div class="values-list">
           <div class="value-item">
             <div class="value-icon">💗</div>
             <div>
               <div class="value-title">Compassionate Guidance</div>
-              <div class="value-desc">Every session is held with deep care, respect, and zero judgment — your sacred space to explore.</div>
+              <div class="value-desc">Every session is held with deep care, respect, and zero judgment — your sacred
+                space to explore.</div>
             </div>
           </div>
           <div class="value-item">
             <div class="value-icon">🔮</div>
             <div>
               <div class="value-title">Intuition-Led Readings</div>
-              <div class="value-desc">I go beyond card meanings to channel intuitive insights uniquely tuned to your energy and situation.</div>
+              <div class="value-desc">I go beyond card meanings to channel intuitive insights uniquely tuned to your
+                energy and situation.</div>
             </div>
           </div>
           <div class="value-item">
             <div class="value-icon">📚</div>
             <div>
               <div class="value-title">Education with Depth</div>
-              <div class="value-desc">My courses are structured yet soul-enriching — perfect for those called to learn Tarot seriously.</div>
+              <div class="value-desc">My courses are structured yet soul-enriching — perfect for those called to learn
+                Tarot seriously.</div>
             </div>
           </div>
         </div>
@@ -70,20 +84,28 @@ include 'header.php';
   <div class="container">
     <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:24px;text-align:center;">
       <div>
-        <div style="font-family:'Playfair Display',serif;font-size:2.4rem;font-weight:700;color:#fff;"><span data-target="8" data-suffix="+">8+</span></div>
-        <div style="font-size:0.82rem;letter-spacing:0.1em;text-transform:uppercase;color:rgba(255,255,255,0.7);">Years Experience</div>
+        <div style="font-family:'Playfair Display',serif;font-size:2.4rem;font-weight:700;color:#fff;"><span
+            data-target="8" data-suffix="+">8+</span></div>
+        <div style="font-size:0.82rem;letter-spacing:0.1em;text-transform:uppercase;color:rgba(255,255,255,0.7);">Years
+          Experience</div>
       </div>
       <div>
-        <div style="font-family:'Playfair Display',serif;font-size:2.4rem;font-weight:700;color:#fff;"><span data-target="1200" data-suffix="+">1200+</span></div>
-        <div style="font-size:0.82rem;letter-spacing:0.1em;text-transform:uppercase;color:rgba(255,255,255,0.7);">Readings Done</div>
+        <div style="font-family:'Playfair Display',serif;font-size:2.4rem;font-weight:700;color:#fff;"><span
+            data-target="1200" data-suffix="+">1200+</span></div>
+        <div style="font-size:0.82rem;letter-spacing:0.1em;text-transform:uppercase;color:rgba(255,255,255,0.7);">
+          Readings Done</div>
       </div>
       <div>
-        <div style="font-family:'Playfair Display',serif;font-size:2.4rem;font-weight:700;color:#fff;"><span data-target="500" data-suffix="+">500+</span></div>
-        <div style="font-size:0.82rem;letter-spacing:0.1em;text-transform:uppercase;color:rgba(255,255,255,0.7);">Students Trained</div>
+        <div style="font-family:'Playfair Display',serif;font-size:2.4rem;font-weight:700;color:#fff;"><span
+            data-target="500" data-suffix="+">500+</span></div>
+        <div style="font-size:0.82rem;letter-spacing:0.1em;text-transform:uppercase;color:rgba(255,255,255,0.7);">
+          Students Trained</div>
       </div>
       <div>
-        <div style="font-family:'Playfair Display',serif;font-size:2.4rem;font-weight:700;color:#fff;"><span data-target="4" data-suffix=".9★">4.9★</span></div>
-        <div style="font-size:0.82rem;letter-spacing:0.1em;text-transform:uppercase;color:rgba(255,255,255,0.7);">Average Rating</div>
+        <div style="font-family:'Playfair Display',serif;font-size:2.4rem;font-weight:700;color:#fff;"><span
+            data-target="4" data-suffix=".9★">4.9★</span></div>
+        <div style="font-size:0.82rem;letter-spacing:0.1em;text-transform:uppercase;color:rgba(255,255,255,0.7);">
+          Average Rating</div>
       </div>
     </div>
   </div>
@@ -103,31 +125,36 @@ include 'header.php';
           <div class="tl-dot"></div>
           <div class="tl-year">2016</div>
           <div class="tl-title">The Discovery</div>
-          <div class="tl-desc">Encountered Tarot during a period of personal transformation. Instantly felt the depth and wisdom of the cards as a tool for inner reflection.</div>
+          <div class="tl-desc">Encountered Tarot during a period of personal transformation. Instantly felt the depth
+            and wisdom of the cards as a tool for inner reflection.</div>
         </div>
         <div class="tl-item">
           <div class="tl-dot"></div>
           <div class="tl-year">2017</div>
           <div class="tl-title">Formal Certification</div>
-          <div class="tl-desc">Completed advanced Tarot certification and began offering readings professionally. Received training in Oracle cards, spiritual counseling, and energy healing.</div>
+          <div class="tl-desc">Completed advanced Tarot certification and began offering readings professionally.
+            Received training in Oracle cards, spiritual counseling, and energy healing.</div>
         </div>
         <div class="tl-item">
           <div class="tl-dot"></div>
           <div class="tl-year">2019</div>
           <div class="tl-title">Teaching Begins</div>
-          <div class="tl-desc">Launched the first Tarot Foundational Course, training over 50 students in the first batch. The response was overwhelming and heartwarming.</div>
+          <div class="tl-desc">Launched the first Tarot Foundational Course, training over 50 students in the first
+            batch. The response was overwhelming and heartwarming.</div>
         </div>
         <div class="tl-item">
           <div class="tl-dot"></div>
           <div class="tl-year">2021</div>
           <div class="tl-title">Online Expansion</div>
-          <div class="tl-desc">Moved courses and consultations online, reaching students across India and internationally. Built a community of 500+ tarot learners.</div>
+          <div class="tl-desc">Moved courses and consultations online, reaching students across India and
+            internationally. Built a community of 500+ tarot learners.</div>
         </div>
         <div class="tl-item">
           <div class="tl-dot"></div>
           <div class="tl-year">2024</div>
           <div class="tl-title">Advanced Offerings</div>
-          <div class="tl-desc">Launched the Advanced Tarot Mastery Program and began corporate wellness workshops. Continues to mentor, guide, and inspire thousands.</div>
+          <div class="tl-desc">Launched the Advanced Tarot Mastery Program and began corporate wellness workshops.
+            Continues to mentor, guide, and inspire thousands.</div>
         </div>
       </div>
     </div>
@@ -165,7 +192,8 @@ include 'header.php';
   <div class="container">
     <div class="cta-banner">
       <h2>Let's Walk This Journey Together</h2>
-      <p>Whether you seek a personal reading or wish to learn Tarot yourself, I'm here to guide you every step of the way.</p>
+      <p>Whether you seek a personal reading or wish to learn Tarot yourself, I'm here to guide you every step of the
+        way.</p>
       <a href="contact.php" class="btn btn-white">Book a Session →</a>
     </div>
   </div>

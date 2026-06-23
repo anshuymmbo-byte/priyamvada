@@ -11,7 +11,8 @@ include 'header.php';
       <div class="hero-content">
         <div class="hero-badge"><span class="dot"></span> Trusted by 500+ Students</div>
         <h1 class="hero-title">Intuition is Your <em>Superpower.</em></h1>
-        <p class="hero-sub">I help you connect with your inner wisdom, gain clarity on love, career, and relationships, and create a life of purpose — through the ancient art of Tarot.</p>
+        <p class="hero-sub">I help you connect with your inner wisdom, gain clarity on love, career, and relationships,
+          and create a life of purpose — through the ancient art of Tarot.</p>
         <div class="hero-actions">
           <a href="contact.php" class="btn btn-primary">Book a Reading 🔮</a>
           <a href="services.php" class="btn btn-outline">Explore Courses →</a>
@@ -33,7 +34,7 @@ include 'header.php';
       </div>
       <div class="hero-img-wrap">
         <div class="hero-img-frame">
-          <div style="width:100%;height:100%;background:linear-gradient(145deg,#f9c7d8,#e8a0b8);display:flex;align-items:center;justify-content:center;font-size:5rem;">🌸</div>
+          <img src="./image/hero_image.png" alt="hero_image">
         </div>
         <div class="hero-float fl-1">
           <div class="fi">🔮</div>
@@ -81,7 +82,10 @@ include 'header.php';
     <div class="about-home-grid">
       <div class="about-home-img">
         <div class="about-img-main">
-          <div style="width:100%;height:100%;background:linear-gradient(145deg,#fcd0e0,#e8a0b8);display:flex;align-items:center;justify-content:center;font-size:6rem;">🌙</div>
+          <div
+            style="width:100%;height:100%;background:linear-gradient(145deg,#fcd0e0,#e8a0b8);display:flex;align-items:center;justify-content:center;font-size:6rem;">
+            <img src="./image/hero_image_about.png" alt="hero_image">
+          </div>
         </div>
         <div class="about-card">
           <span class="ac-num">8+</span>
@@ -91,8 +95,12 @@ include 'header.php';
       <div class="about-home-content">
         <span class="eyebrow">About Priyamvada</span>
         <h2 class="section-title">Your Guide to Inner Clarity &amp; Spiritual Growth</h2>
-        <p>I'm Priyamvada Singh — a certified Tarot Mentor, Spiritual Guide, and Educator. With over 8 years of dedicated practice, I've helped thousands of people unlock their inner wisdom and navigate life's deepest questions.</p>
-        <p>My approach blends intuitive Tarot reading with practical life guidance, creating a sacred space where clarity emerges naturally. Whether you're seeking answers on love, career, or personal growth — I'm here to guide you.</p>
+        <p>I'm Priyamvada Singh — a certified Tarot Mentor, Spiritual Guide, and Educator. With over 8 years of
+          dedicated practice, I've helped thousands of people unlock their inner wisdom and navigate life's deepest
+          questions.</p>
+        <p>My approach blends intuitive Tarot reading with practical life guidance, creating a sacred space where
+          clarity emerges naturally. Whether you're seeking answers on love, career, or personal growth — I'm here to
+          guide you.</p>
         <div class="skills-list">
           <span class="skill-tag">🔮 Tarot Reader</span>
           <span class="skill-tag">🌟 Spiritual Guide</span>
@@ -111,7 +119,8 @@ include 'header.php';
   <div class="container text-center">
     <span class="eyebrow">What I Offer</span>
     <h2 class="section-title">I Can Help You With</h2>
-    <p class="section-subtitle">From personal Tarot readings to comprehensive courses, I offer a range of services to support your spiritual journey.</p>
+    <p class="section-subtitle">From personal Tarot readings to comprehensive courses, I offer a range of services to
+      support your spiritual journey.</p>
     <div class="cards-grid">
       <div class="card">
         <div class="card-icon">🔮</div>
@@ -159,7 +168,8 @@ include 'header.php';
     <div class="testi-grid">
       <div class="testi-card">
         <div class="testi-stars">★★★★★</div>
-        <p class="testi-text">"My session with Priyamvada was life-changing. She gave me clarity I'd been searching for months. Her intuition is extraordinary and her guidance truly resonated with my soul."</p>
+        <p class="testi-text">"My session with Priyamvada was life-changing. She gave me clarity I'd been searching for
+          months. Her intuition is extraordinary and her guidance truly resonated with my soul."</p>
         <div class="testi-author">
           <div class="testi-avatar">NS</div>
           <div>
@@ -170,7 +180,8 @@ include 'header.php';
       </div>
       <div class="testi-card">
         <div class="testi-stars">★★★★★</div>
-        <p class="testi-text">"I took the Tarot Foundational Course and it completely transformed how I see the world. Priyamvada is a gifted teacher — patient, insightful, and incredibly knowledgeable."</p>
+        <p class="testi-text">"I took the Tarot Foundational Course and it completely transformed how I see the world.
+          Priyamvada is a gifted teacher — patient, insightful, and incredibly knowledgeable."</p>
         <div class="testi-author">
           <div class="testi-avatar">RP</div>
           <div>
@@ -181,7 +192,8 @@ include 'header.php';
       </div>
       <div class="testi-card">
         <div class="testi-stars">★★★★★</div>
-        <p class="testi-text">"Helping me unlock clarity, intuition, and empowerment through Tarot and spiritual guidance. I'm forever grateful for this journey."</p>
+        <p class="testi-text">"Helping me unlock clarity, intuition, and empowerment through Tarot and spiritual
+          guidance. I'm forever grateful for this journey."</p>
         <div class="testi-author">
           <div class="testi-avatar">AM</div>
           <div>
@@ -199,10 +211,12 @@ include 'header.php';
   <div class="container">
     <div class="cta-banner">
       <h2>Ready to Trust Your Intuition?</h2>
-      <p>Book a personal Tarot reading or join a course and begin your journey to clarity, purpose, and spiritual empowerment.</p>
+      <p>Book a personal Tarot reading or join a course and begin your journey to clarity, purpose, and spiritual
+        empowerment.</p>
       <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;">
         <a href="contact.php" class="btn btn-white">Book a Consultation 🔮</a>
-        <a href="services.php" class="btn btn-outline" style="border-color:rgba(255,255,255,0.5);color:#fff;">Explore Courses →</a>
+        <a href="services.php" class="btn btn-outline" style="border-color:rgba(255,255,255,0.5);color:#fff;">Explore
+          Courses →</a>
       </div>
     </div>
   </div>
